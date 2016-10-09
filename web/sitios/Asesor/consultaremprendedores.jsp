@@ -1,3 +1,4 @@
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -29,7 +30,7 @@
         <!--logo general-->
         <span class="logo-lg">Asesor MINCIT</span>
       </a>
-      <!--barra de nacegación-->
+      <!--barra de nacegaciÃ³n-->
       <nav class="navbar navbar-static-top" role="navigation">
         <!--boton hamburquesa de la barra lateral-->
         <a href="#" class="sidebar-toggle" data-toggle="offcanvas" role="button">
@@ -68,7 +69,7 @@
           <li class="active"><a href="#"><i class="fa fa-calendar"></i> <span>Consultar emprendedores</span></a></li>
 
           <li class="header">Cuenta</li>
-          <li><a href="../index.html"><i class="fa fa-bed"></i><span>Cerrar Sesión</span></a></li>
+          <li><a href="../index.html"><i class="fa fa-bed"></i><span>Cerrar SesiÃ³n</span></a></li>
         </ul>
       </section>
     </aside>
@@ -243,7 +244,7 @@
                  "sProcessing":     "Procesando...",
                 "sLengthMenu":     "Mostrar _MENU_ Emprendedores",
                 "sZeroRecords":    "No se encontraron Emprendedores",
-                "sEmptyTable":     "Ningún dato disponible en esta tabla",
+                "sEmptyTable":     "NingÃºn dato disponible en esta tabla",
                 "sInfo":           "Mostrando emprendedores del _START_ al _END_ de un total de _TOTAL_ emprendedores",
                 "sInfoEmpty":      "Mostrando emprendedores del 0 al 0 de un total de 0 emprendedores",
                 "sInfoFiltered":   "(filtrado de un total de _MAX_ emprendedores)",
@@ -254,7 +255,7 @@
                 "sLoadingRecords": "Cargando...",
                 "oPaginate": {
                     "sFirst":    "Primero",
-                    "sLast":     "Último",
+                    "sLast":     "Ãltimo",
                     "sNext":     "Siguiente",
                     "sPrevious": "Anterior"
                 },

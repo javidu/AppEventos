@@ -1,3 +1,4 @@
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -16,7 +17,7 @@
   <link rel="stylesheet" href="../../librerias/AminLTE/css/AdminLTE.min.css">
   <link rel="stylesheet" href="../../librerias/AminLTE/css/skins/_all-skins.min.css">
 
-  <title>Administrción de Eventos</title>
+  <title>AdministrciÃ³n de Eventos</title>
 </head>
 <body class="hold-transition skin-green sidebar-mini fixed">
   <div class="wrapper">
@@ -29,7 +30,7 @@
         <!--logo general-->
         <span class="logo-lg">AdminEventos</span>
       </a>
-      <!--barra de nacegación-->
+      <!--barra de nacegaciÃ³n-->
       <nav class="navbar navbar-static-top" role="navigation">
         <!--boton hamburquesa de la barra lateral-->
         <a href="#" class="sidebar-toggle" data-toggle="offcanvas" role="button">
@@ -38,7 +39,7 @@
         <ul class="nav navbar-nav">
           <li><a href="#"><i class="fa fa-home"></i></a></li>
         </ul>
-        <span class="navbar-brand"><p>Administración | Ministerio de Cultura, Industria y Turismo</p></span>
+        <span class="navbar-brand"><p>AdministraciÃ³n | Ministerio de Cultura, Industria y Turismo</p></span>
 
       </nav>
     </div>
@@ -65,7 +66,7 @@
           <li><a href="verAlertas.html"><i class="fa fa-bell-o"></i> <span>Alertas Agregadas</span></a></li>
           <li><a href="nuevaAlerta.html"><i class="fa fa-bell"></i>+ <span>Nueva Alerta</span></a></li>
           <li class="header">Cuenta</li>
-          <li><a href="../index.html"><i class="fa fa-bed"></i><span>Cerrar Sesión</span></a></li>
+          <li><a href="../index.html"><i class="fa fa-bed"></i><span>Cerrar SesiÃ³n</span></a></li>
         </ul>
       </section>
     </aside>
@@ -80,7 +81,7 @@
            <a href="../indes.html"><i class="fa fa-home"></i>INICIO</a>
           </li>
           <li>
-           <a href="AdminEventos.html">Administración</a>
+           <a href="AdminEventos.html">AdministraciÃ³n</a>
           </li>
         </ol>
       </section>
@@ -101,7 +102,7 @@
                       <th>acciones</th>
                       <th>Nombre</th>
                       <th>Fecha</th>
-                      <th>Dirección</th>
+                      <th>DirecciÃ³n</th>
                       <th>Ciudad</th>
                       <th>Sector</th>
                       <th>Entidad</th>
@@ -117,7 +118,7 @@
                       </td>
                       <td>Nombre-1</td>
                       <td>Fecha-1</td>
-                      <td>Dirección-1</td>
+                      <td>DirecciÃ³n-1</td>
                       <td>Ciudad-1</td>
                       <td>Sector-1</td>
                       <td>Organizador-1</td>
@@ -134,7 +135,7 @@
                       </td>
                       <td>Nombre-2</td>
                       <td>Fecha-2</td>
-                      <td>Dirección-2</td>
+                      <td>DirecciÃ³n-2</td>
                       <td>Ciudad-2</td>
                       <td>Sector-2</td>
                       <td>Organizador-2</td>
@@ -151,7 +152,7 @@
                       </td>
                       <td>Nombre-3</td>
                       <td>Fecha-3</td>
-                      <td>Dirección-3</td>
+                      <td>DirecciÃ³n-3</td>
                       <td>Ciudad-3</td>
                       <td>Sector-3</td>
                       <td>Organizador-3</td>
@@ -168,7 +169,7 @@
                       </td>
                       <td>Nombre-4</td>
                       <td>Fecha-4</td>
-                      <td>Dirección-4</td>
+                      <td>DirecciÃ³n-4</td>
                       <td>Ciudad-4</td>
                       <td>Sector-4</td>
                       <td>Organizador-4</td>
@@ -185,7 +186,7 @@
                       </td>
                       <td>Nombre-5</td>
                       <td>Fecha-5</td>
-                      <td>Dirección-5</td>
+                      <td>DirecciÃ³n-5</td>
                       <td>Ciudad-5</td>
                       <td>Sector-5</td>
                       <td>Organizador-5</td>
@@ -202,7 +203,7 @@
                       </td>
                       <td>Nombre-6</td>
                       <td>Fecha-6</td>
-                      <td>Dirección-6</td>
+                      <td>DirecciÃ³n-6</td>
                       <td>Ciudad-6</td>
                       <td>Sector-6</td>
                       <td>Organizador-6</td>
@@ -219,7 +220,7 @@
                       </td>
                       <td>Nombre-7</td>
                       <td>Fecha-7</td>
-                      <td>Dirección-7</td>
+                      <td>DirecciÃ³n-7</td>
                       <td>Ciudad-7</td>
                       <td>Sector-7</td>
                       <td>Organizador-7</td>
@@ -236,7 +237,7 @@
                       </td>
                       <td>Nombre-8</td>
                       <td>Fecha-8</td>
-                      <td>Dirección-8</td>
+                      <td>DirecciÃ³n-8</td>
                       <td>Ciudad-8</td>
                       <td>Sector-8</td>
                       <td>Organizador-8</td>
@@ -253,7 +254,7 @@
                       </td>
                       <td>Nombre-9</td>
                       <td>Fecha-9</td>
-                      <td>Dirección-9</td>
+                      <td>DirecciÃ³n-9</td>
                       <td>Ciudad-9</td>
                       <td>Sector-9</td>
                       <td>Organizador-9</td>
@@ -270,7 +271,7 @@
                       </td>
                       <td>Nombre-10</td>
                       <td>Fecha-10</td>
-                      <td>Dirección-10</td>
+                      <td>DirecciÃ³n-10</td>
                       <td>Ciudad-10</td>
                       <td>Sector-10</td>
                       <td>Organizador-10</td>
@@ -287,7 +288,7 @@
                       </td>
                       <td>Nombre-11</td>
                       <td>Fecha-11</td>
-                      <td>Dirección-11</td>
+                      <td>DirecciÃ³n-11</td>
                       <td>Ciudad-11</td>
                       <td>Sector-11</td>
                       <td>Organizador-11</td>
@@ -304,7 +305,7 @@
                       </td>
                       <td>Nombre-12</td>
                       <td>Fecha-12</td>
-                      <td>Dirección-12</td>
+                      <td>DirecciÃ³n-12</td>
                       <td>Ciudad-12</td>
                       <td>Sector-12</td>
                       <td>Organizador-12</td>
@@ -382,7 +383,7 @@
                 "sProcessing":     "Procesando...",
                 "sLengthMenu":     "Mostrar _MENU_ Eventos",
                 "sZeroRecords":    "No se encontraron Eventos",
-                "sEmptyTable":     "Ningún dato disponible en esta tabla",
+                "sEmptyTable":     "NingÃºn dato disponible en esta tabla",
                 "sInfo":           "Mostrando Eventos del _START_ al _END_ de un total de _TOTAL_ Eventos",
                 "sInfoEmpty":      "Mostrando eventos del 0 al 0 de un total de 0 eventos",
                 "sInfoFiltered":   "(filtrado de un total de _MAX_ eventos)",
@@ -393,7 +394,7 @@
                 "sLoadingRecords": "Cargando...",
                 "oPaginate": {
                     "sFirst":    "Primero",
-                    "sLast":     "Último",
+                    "sLast":     "Ãltimo",
                     "sNext":     "Siguiente",
                     "sPrevious": "Anterior"
                 },

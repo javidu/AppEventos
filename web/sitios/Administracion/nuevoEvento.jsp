@@ -1,3 +1,4 @@
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -15,7 +16,7 @@
   <link rel="stylesheet" href="../../librerias/AminLTE/css/skins/_all-skins.min.css">
   <!--timePiker-->
   <link rel="stylesheet" href="../../librerias/timepicker/bootstrap-timepicker.min.css">
-  <title>Administrción de Eventos | Registro</title>
+  <title>AdministrciÃ³n de Eventos | Registro</title>
 </head>
 <body class="hold-transition skin-green sidebar-mini fixed ">
   <div class="wrapper">
@@ -28,7 +29,7 @@
         <!--logo general-->
         <span class="logo-lg">AdminEventos</span>
       </a>
-      <!--barra de nacegación-->
+      <!--barra de nacegaciÃ³n-->
       <nav class="navbar navbar-static-top" role="navigation">
         <!--boton hamburquesa de la barra lateral-->
         <a href="#" class="sidebar-toggle" data-toggle="offcanvas" role="button">
@@ -37,7 +38,7 @@
         <ul class="nav navbar-nav">
           <li><a href="#"><i class="fa fa-home"></i></a></li>
         </ul>
-        <span class="navbar-brand"><p>Administración | Ministerio de Cultura, Industria y Turismo</p></span>
+        <span class="navbar-brand"><p>AdministraciÃ³n | Ministerio de Cultura, Industria y Turismo</p></span>
 
       </nav>
     </div>
@@ -64,7 +65,7 @@
           <li><a href="#"><i class="fa fa-bell-o"></i> <span>Alertas Agregadas</span></a></li>
           <li><a href="#"><i class="fa fa-bell"></i>+ <span>Nueva Alerta</span></a></li>
           <li class="header">Cuenta</li>
-          <li><a href="../index.html"><i class="fa fa-bed"></i><span>Cerrar Sesión</span></a></li>
+          <li><a href="../index.html"><i class="fa fa-bed"></i><span>Cerrar SesiÃ³n</span></a></li>
         </ul>
       </section>
     </aside>
@@ -79,7 +80,7 @@
            <a href="../index.html"><i class="fa fa-home"></i>INICIO</a>
           </li>
           <li>
-           <a href="AdminEventos.html">Administración</a>
+           <a href="AdminEventos.html">AdministraciÃ³n</a>
           </li>
         </ol>
       </section>
@@ -109,7 +110,7 @@
           <div class="col-md-12">
             <div class="box box-default collapsed-box box-solid box-success">
               <div class="box-header with-border">
-                <h3 class="box-title">Registar Único Evento</h3>
+                <h3 class="box-title">Registar Ãnico Evento</h3>
                 <div class="box-tools pull-right">
                   <button class="btn btn-box-tool" data-widget="collapse"><i class="fa fa-plus"></i></button>
                 </div>
@@ -245,8 +246,8 @@
                         <div class="box-body">
                           <select class="form-control" name="Ciudad">
                             <option disabled="disabled">Ciudad</option>
-                            <option>Cúcuta</option>
-                            <option>Medellín</option>
+                            <option>CÃºcuta</option>
+                            <option>MedellÃ­n</option>
                             <option>Armenia</option>
                             <option>New york</option>
                             <option>Pamplona</option>
@@ -297,7 +298,7 @@
                           <div class="box-body">
                             <select class="form-control" name="Sector">
                               <option disabled="disabled">Sector</option>
-                              <option>Confección</option>
+                              <option>ConfecciÃ³n</option>
                               <option>Calzado</option>
                               <option>Textil</option>
                               <option>Bisuteria</option>
@@ -306,7 +307,7 @@
                               <option>Alimnentos</option>
                               <option>Agropecuario</option>
                               <option>Horticultura</option>
-                              <option>Cadena láctea</option>
+                              <option>Cadena lÃ¡ctea</option>
                               <option>Servicio Turismo</option>
                               <option>TICs</option>
 

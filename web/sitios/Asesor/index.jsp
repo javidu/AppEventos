@@ -1,3 +1,4 @@
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -29,7 +30,7 @@
         <!--logo general-->
         <span class="logo-lg">Asesor MINCIT</span>
       </a>
-      <!--barra de nacegación-->
+      <!--barra de nacegaciÃ³n-->
       <nav class="navbar navbar-static-top" role="navigation">
         <!--boton hamburquesa de la barra lateral-->
         <a href="#" class="sidebar-toggle" data-toggle="offcanvas" role="button">
@@ -68,7 +69,7 @@
           <li><a href="#"><i class="fa fa-bell-o"></i> <span>Consultar emprendedores</span></a></li>
 
           <li class="header">Cuenta</li>
-          <li><a href="../index.html"><i class="fa fa-bed"></i><span>Cerrar Sesión</span></a></li>
+          <li><a href="../index.html"><i class="fa fa-bed"></i><span>Cerrar SesiÃ³n</span></a></li>
         </ul>
       </section>
     </aside>
@@ -99,11 +100,11 @@
               <div class="col-xs-3 selectContainer">
                   <select class="form-control" name="size">
                       <option value="">Escoja un continente</option>
-                      <option value="a">América</option>
+                      <option value="a">AmÃ©rica</option>
                       <option value="e">Europa</option>
                       <option value="af">Africa</option>
                       <option value="as">Asia</option>
-                      <option value="o">Oceanía</option>
+                      <option value="o">OceanÃ­a</option>
                   </select>
               </div>
 
@@ -119,7 +120,7 @@
                   </select>
               </div>
          
-              <label class="col-xs-1 control-label">País:</label>
+              <label class="col-xs-1 control-label">PaÃ­s:</label>
               <div class="col-xs-3 selectContainer">
                   <select class="form-control" name="size">
                       <option value="">Escoja un pais</option>
@@ -205,7 +206,7 @@
               <img src="../../img/evento.jpg" alt="imagen de evento">
               <div class="caption">
                 <h3>Nombre Evento</h3>
-                <p>Descripción evento</p>
+                <p>DescripciÃ³n evento</p>
                 <p><a href="#" class="btn btn-success" role="button">Ver evento</a></p>
               </div>
             </div>
@@ -215,7 +216,7 @@
               <img src="../../img/evento.jpg" alt="imagen de evento">
               <div class="caption">
                 <h3>Nombre Evento</h3>
-                <p>Descripción evento</p>
+                <p>DescripciÃ³n evento</p>
                 <p><a href="#" class="btn btn-success" role="button">Ver evento</a></p>
               </div>
             </div>
@@ -225,7 +226,7 @@
               <img src="../../img/evento.jpg" alt="imagen de evento">
               <div class="caption">
                 <h3>Nombre Evento</h3>
-                <p>Descripción evento</p>
+                <p>DescripciÃ³n evento</p>
                 <p><a href="#" class="btn btn-success" role="button">Ver evento</a></p>
               </div>
             </div>
@@ -235,7 +236,7 @@
               <img src="../../img/evento.jpg" alt="imagen de evento">
               <div class="caption">
                 <h3>Nombre Evento</h3>
-                <p>Descripción evento</p>
+                <p>DescripciÃ³n evento</p>
                 <p><a href="#" class="btn btn-success" role="button">Ver evento</a></p>
               </div>
             </div>
@@ -245,7 +246,7 @@
               <img src="../../img/evento.jpg" alt="imagen de evento">
               <div class="caption">
                 <h3>Nombre Evento</h3>
-                <p>Descripción evento</p>
+                <p>DescripciÃ³n evento</p>
                 <p><a href="#" class="btn btn-success" role="button">Ver evento</a></p>
               </div>
             </div>
@@ -255,7 +256,7 @@
               <img src="../../img/evento.jpg" alt="imagen de evento">
               <div class="caption">
                 <h3>Nombre Evento</h3>
-                <p>Descripción evento</p>
+                <p>DescripciÃ³n evento</p>
                 <p><a href="#" class="btn btn-success" role="button">Ver evento</a></p>
               </div>
             </div>
@@ -270,19 +271,19 @@
     <a href="#"><span> &laquo;</span></a>
   </li>
   <li class="active">
-    <a href="#">1 <span class="sr-only">(página actual)</span></a>
+    <a href="#">1 <span class="sr-only">(pÃ¡gina actual)</span></a>
   </li>
   <li class="success">
-    <a href="#">2 <span class="sr-only">(página actual)</span></a>
+    <a href="#">2 <span class="sr-only">(pÃ¡gina actual)</span></a>
   </li>
   <li class="success">
-    <a href="#">3 <span class="sr-only">(página actual)</span></a>
+    <a href="#">3 <span class="sr-only">(pÃ¡gina actual)</span></a>
   </li>
   <li class="success">
-    <a href="#">4 <span class="sr-only">(página actual)</span></a>
+    <a href="#">4 <span class="sr-only">(pÃ¡gina actual)</span></a>
   </li>
   <li class="success">
-    <a href="#">5 <span class="sr-only">(página actual)</span></a>
+    <a href="#">5 <span class="sr-only">(pÃ¡gina actual)</span></a>
   </li>
 <li class="success">
     <a href="#"><span> &raquo;</span></a>
@@ -323,7 +324,7 @@
                 "sProcessing":     "Procesando...",
                 "sLengthMenu":     "Mostrar _MENU_ Eventos",
                 "sZeroRecords":    "No se encontraron Eventos",
-                "sEmptyTable":     "Ningún dato disponible en esta tabla",
+                "sEmptyTable":     "NingÃºn dato disponible en esta tabla",
                 "sInfo":           "Mostrando Eventos del _START_ al _END_ de un total de _TOTAL_ Eventos",
                 "sInfoEmpty":      "Mostrando eventos del 0 al 0 de un total de 0 eventos",
                 "sInfoFiltered":   "(filtrado de un total de _MAX_ eventos)",
@@ -334,7 +335,7 @@
                 "sLoadingRecords": "Cargando...",
                 "oPaginate": {
                     "sFirst":    "Primero",
-                    "sLast":     "Último",
+                    "sLast":     "Ãltimo",
                     "sNext":     "Siguiente",
                     "sPrevious": "Anterior"
                 },
