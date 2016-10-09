@@ -1,0 +1,41 @@
+
+
+        #titulo{
+        background: #08B304;
+        font-size: 15px;
+        }
+
+  		#boton{
+  			
+  			margin-left: 400px;
+  		}
+  		
+  		#tituloinfo{
+        background: #000000;
+        font-size: 25px;
+        color: #FFFFFF;
+        }
+
+        #resultado{
+        	margin-bottom: 100px;      	
+        	color: #08B304;
+        }
+
+        #contenedor{
+        background-color: #f5f5f5;
+        display: block;
+        margin: auto;
+        width: 960px;
+        overflow: hidden;
+        padding: 5px;
+        }
+
+        #zonahead{
+          margin: auto;
+          width: 960px;
+          height: 90px;
+          background: url(../../../img/logoMinisterio2.png) left top no-repeat;
+          background-color: #f5f5f5;
+          margin-bottom: 5px;
+        }
+

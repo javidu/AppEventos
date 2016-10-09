@@ -1,0 +1,26 @@
+
+
+{
+	"sProcessing":     "Procesando...",
+	"sLengthMenu":     "Mostrar _MENU_ Eventos",
+	"sZeroRecords":    "No se encontraron resultados",
+	"sEmptyTable":     "Ningún dato disponible en esta tabla",
+	"sInfo":           "Mostrando Eventos del _START_ al _END_ de un total de _TOTAL_ Eventos",
+	"sInfoEmpty":      "Mostrando Eventos del 0 al 0 de un total de 0 Eventos",
+	"sInfoFiltered":   "(filtrado de un total de _MAX_ Eventos)",
+	"sInfoPostFix":    "",
+	"sSearch":         "Buscar Evento:",
+	"sUrl":            "",
+	"sInfoThousands":  ",",
+	"sLoadingRecords": "Cargando...",
+	"oPaginate": {
+		"sFirst":    "Primero",
+		"sLast":     "Último",
+		"sNext":     "Siguiente",
+		"sPrevious": "Anterior"
+	},
+	"oAria": {
+		"sSortAscending":  ": Activar para ordenar la columna de manera ascendente",
+		"sSortDescending": ": Activar para ordenar la columna de manera descendente"
+	}
+}
