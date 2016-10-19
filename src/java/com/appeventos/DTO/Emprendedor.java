@@ -12,7 +12,7 @@ package com.appeventos.DTO;
 public class Emprendedor {
     
     String nombre;
-    String cedula;
+    int cedula;
     String correo;
 
     public String getNombre() {
@@ -23,11 +23,11 @@ public class Emprendedor {
         this.nombre = nombre;
     }
 
-    public String getCedula() {
+    public int getCedula() {
         return cedula;
     }
 
-    public void setCedula(String cedula) {
+    public void setCedula(int cedula) {
         this.cedula = cedula;
     }
 
@@ -48,5 +48,11 @@ public class Emprendedor {
     }
     int puntaje;
     
-    
+    public Emprendedor(int cedula, String nombre, String correo, int puntaje){
+       
+        this.cedula=cedula;
+        this.nombre=nombre;
+        this.correo=correo;
+        this.puntaje=puntaje;
+    }
 }

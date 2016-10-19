@@ -7,6 +7,7 @@ package com.appeventos.Util;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
+import java.sql.SQLException;
 
 /**
  *
@@ -32,6 +33,10 @@ public class Conexion {
 
     public Connection getCon() {
         return con;
+    }
+    
+    public void desconectar() throws SQLException{
+        con.close();
     }
 
 }
