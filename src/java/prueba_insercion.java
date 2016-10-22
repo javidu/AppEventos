@@ -19,13 +19,11 @@ public class prueba_insercion {
     
     public static void main(String []args){
         
-        Emprendedor e = new Emprendedor(1090472774, "javier", "javidu@hotmail.com", 60);
+        Emprendedor e = new Emprendedor("1090984149", "juan", "juan@hotmail.com", 65);
         DAOEmprendedor emp = new DAOEmprendedor();
-        try {
-            emp.RegistrarEmprendedor(e);
-        } catch (SQLException ex) {
-            Logger.getLogger(prueba_insercion.class.getName()).log(Level.SEVERE, null, ex);
-        }
+        
+            System.out.println(emp.ConsultarEmprendedores());
+        } 
     }
     
-}
+

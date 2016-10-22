@@ -31,7 +31,7 @@ public class Conexion {
 
     }
 
-    public Connection getCon() {
+    public Connection getConexion() {
         return con;
     }
     
