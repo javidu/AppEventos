@@ -48,6 +48,9 @@ public class Emprendedor {
         this.puntaje = puntaje;
     }
     
+    public Emprendedor(){
+        
+    }
     
     public Emprendedor(String cedula, String nombre, String correo, int puntaje){
        

@@ -48,7 +48,7 @@
           <!-- User Account: style can be found in dropdown.less -->
           <li class="dropdown user user-menu">
             <a href="Administracion/index.html" class="dropdown-toggle" data-toggle="dropdown">
-              <span class="hidden-xs">Administraci√≥n</span>
+              <span class="hidden-xs">AdministraciÛn</span>
             </a>
           </li>
           <li class="dropdown user user-menu">
@@ -84,7 +84,7 @@
       <!-- /.search form -->
       <!-- sidebar menu: : style can be found in sidebar.less -->
       <ul class="sidebar-menu">
-        <li class="header">B√∫squeda</li>
+        <li class="header">Busqueda</li>
 
         <li>
           <select class="form-control" name="">
@@ -387,13 +387,13 @@
     <div class="text-center">
 
 
-<p><small>Exenci√≥n de Responsabilidad - L√≠nea Gratuita </small>018000958283<small> - PBX: (+571) 6067676, Fax: (+571) 6067522
-2011 (c) Ministerio de Comercio, Industria y Turismo, Rep√∫blica de Colombia.</small></p>
- <small>Buz√≥n exclusivo para recibir Notificaciones Judiciales</small>
+<p><small>ExenciÛn de Responsabilidad - LÌnea Gratuita </small>018000958283<small> - PBX: (+571) 6067676, Fax: (+571) 6067522
+2011 (c) Ministerio de Comercio, Industria y Turismo, Republica de Colombia.</small></p>
+ <small>BuzÛn exclusivo para recibir Notificaciones Judiciales</small>
 
 <p>................................................................................................</p>
-<p>Ingenier√≠a de Sistemas - Universidad Francisco de Paula Santander</p>
-<p><small>Manuel Eliseo Osorio Jaimes codigo 1150715 - Francisco Javier Duarte Garc√≠a codigo 1150712</small></p>
+<p>IngenierÌa de Sistemas - Universidad Francisco de Paula Santander</p>
+<p><small>Manuel Eliseo Osorio Jaimes codigo 1150715 - Francisco Javier Duarte Garcia codigo 1150712</small></p>
 <p>
   <small>Todos los Derechos Reservados - 2016</small>
 </p>

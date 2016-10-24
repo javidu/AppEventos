@@ -7,7 +7,6 @@ package com.appeventos.DAO;
 
 import com.appeventos.DTO.Emprendedor;
 import com.appeventos.Util.Conexion;
-import com.appeventos.Util.ConexionMysql;
 import java.sql.SQLException;
 import java.util.logging.Level;
 import java.util.logging.Logger;
@@ -52,6 +51,7 @@ public class DAOEmprendedor {
             
 
         } catch (SQLException ex) { 
+            
             exito = false;
             if(ex.getErrorCode()==1062)
                 
@@ -78,9 +78,7 @@ public class DAOEmprendedor {
      
         boolean exito = true;
         try {
-            String sql = "Select * from Emprendedor";
-            
-            
+            String sql = "Select * from Emprendedor";                        
             
             if(con==null){
                 con=new Conexion();
@@ -99,6 +97,7 @@ public class DAOEmprendedor {
             }                 
             
         } catch (SQLException ex) {
+           
             exito = false;
             System.out.println("No se pudo realizar la consulta!");
         }
